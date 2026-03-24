@@ -7,11 +7,11 @@
 
 
 <div align="center">
-  <h2>
+  <h3>
     <a href="https://jackvnm.dev/" target="_blank">
-      Portfolio
+      Blog/Portfolio
     </a>
-  </h2>
+  </h3>
  
 </div>
 
