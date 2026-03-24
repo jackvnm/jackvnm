@@ -4,7 +4,19 @@
 </div>
 
 
-<div>
+
+
+<div align="center">
+  <h2>
+    <a href="https://jackvnm.dev/" target="_blank">
+      Portfolio
+    </a>
+  </h2>
+ 
+</div>
+
+<br/>
+<div align="center">
   <h2>Tech Stack</h2>
   <p>
     C# · Python · JavaScript · React · Rust · Docker <br/>
@@ -12,11 +24,3 @@
   </p>
 </div>
 
-
-<div>
-  <h2>
-    <a href="https://jackvnm.dev/" target="_blank">
-      Portfolio
-    </a>
-  </h2>
- 
